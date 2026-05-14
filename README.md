@@ -92,9 +92,8 @@ The notebooks also apply the selected best model to the external testing dataset
 | Model / Setup | Main result |
 |---|---|
 | Random Forest baseline + BoW unigram | Accuracy 0.9152, weighted F1 0.9152. |
-| Tuned Random Forest | Accuracy 0.9359, weighted F1 0.9359.
+| Tuned Random Forest | Accuracy 0.9359, weighted F1 0.9359. |
 | Tuned MultinomialNB | Accuracy 0.9357, weighted F1 0.9357. |
- |
 | RoBERTa fake news classification | Accuracy 0.9858, precision/recall/F1 about 0.99 for both classes. |
 | DistilBERT base pipeline (non-task-specific) | Accuracy 0.4727, much weaker than tuned models. |
 
